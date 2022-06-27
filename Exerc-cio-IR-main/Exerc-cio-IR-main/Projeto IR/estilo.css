@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(240, 227, 205);
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    display: block;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    font-weight: bolder;
+}
+ button{
+    background-color:whitesmoke;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width:150px;
+    padding: 5px;
+    position:relative;
+    font-weight:bolder;
+}
+button:hover{
+    color:whitesmoke;
+    background-color:rgb(51, 48, 48);
+    transition: all 0.4s;
+}
